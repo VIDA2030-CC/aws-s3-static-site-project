@@ -1,6 +1,6 @@
 # AWS S3 Static Website Project 🌐☁️
 
-This was my **first beginner project** where I learned how to host a static website using Amazon S3.
+This project marks the beginning of my cloud computing journey. I succesfully hosted a static website using AWS S3. 
 
 ## 🌟 What I Did:
 - Created and configured an S3 bucket
